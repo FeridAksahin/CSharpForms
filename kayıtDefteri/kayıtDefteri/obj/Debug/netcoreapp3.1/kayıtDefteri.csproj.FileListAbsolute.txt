@@ -1,0 +1,15 @@
+C:\Users\FERİD\Source\FormRepos\kayıtDefteri\kayıtDefteri\bin\Debug\netcoreapp3.1\kayıtDefteri.exe
+C:\Users\FERİD\Source\FormRepos\kayıtDefteri\kayıtDefteri\bin\Debug\netcoreapp3.1\kayıtDefteri.deps.json
+C:\Users\FERİD\Source\FormRepos\kayıtDefteri\kayıtDefteri\bin\Debug\netcoreapp3.1\kayıtDefteri.runtimeconfig.json
+C:\Users\FERİD\Source\FormRepos\kayıtDefteri\kayıtDefteri\bin\Debug\netcoreapp3.1\kayıtDefteri.runtimeconfig.dev.json
+C:\Users\FERİD\Source\FormRepos\kayıtDefteri\kayıtDefteri\bin\Debug\netcoreapp3.1\kayıtDefteri.dll
+C:\Users\FERİD\Source\FormRepos\kayıtDefteri\kayıtDefteri\bin\Debug\netcoreapp3.1\kayıtDefteri.pdb
+C:\Users\FERİD\Source\FormRepos\kayıtDefteri\kayıtDefteri\obj\Debug\netcoreapp3.1\kayıtDefteri.Form1.resources
+C:\Users\FERİD\Source\FormRepos\kayıtDefteri\kayıtDefteri\obj\Debug\netcoreapp3.1\kayıtDefteri.csproj.GenerateResource.cache
+C:\Users\FERİD\Source\FormRepos\kayıtDefteri\kayıtDefteri\obj\Debug\netcoreapp3.1\kayıtDefteri.AssemblyInfoInputs.cache
+C:\Users\FERİD\Source\FormRepos\kayıtDefteri\kayıtDefteri\obj\Debug\netcoreapp3.1\kayıtDefteri.AssemblyInfo.cs
+C:\Users\FERİD\Source\FormRepos\kayıtDefteri\kayıtDefteri\obj\Debug\netcoreapp3.1\kayıtDefteri.csproj.CoreCompileInputs.cache
+C:\Users\FERİD\Source\FormRepos\kayıtDefteri\kayıtDefteri\obj\Debug\netcoreapp3.1\kayıtDefteri.dll
+C:\Users\FERİD\Source\FormRepos\kayıtDefteri\kayıtDefteri\obj\Debug\netcoreapp3.1\kayıtDefteri.pdb
+C:\Users\FERİD\Source\FormRepos\kayıtDefteri\kayıtDefteri\obj\Debug\netcoreapp3.1\kayıtDefteri.genruntimeconfig.cache
+C:\Users\FERİD\Source\FormRepos\kayıtDefteri\kayıtDefteri\obj\Debug\netcoreapp3.1\kayıtDefteri.csprojAssemblyReference.cache

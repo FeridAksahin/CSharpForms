@@ -1,0 +1,15 @@
+C:\Users\FERİD\Source\FormRepos\calculatorMachine\calculatorMachine\bin\Debug\netcoreapp3.1\calculatorMachine.exe
+C:\Users\FERİD\Source\FormRepos\calculatorMachine\calculatorMachine\bin\Debug\netcoreapp3.1\calculatorMachine.deps.json
+C:\Users\FERİD\Source\FormRepos\calculatorMachine\calculatorMachine\bin\Debug\netcoreapp3.1\calculatorMachine.runtimeconfig.json
+C:\Users\FERİD\Source\FormRepos\calculatorMachine\calculatorMachine\bin\Debug\netcoreapp3.1\calculatorMachine.runtimeconfig.dev.json
+C:\Users\FERİD\Source\FormRepos\calculatorMachine\calculatorMachine\bin\Debug\netcoreapp3.1\calculatorMachine.dll
+C:\Users\FERİD\Source\FormRepos\calculatorMachine\calculatorMachine\bin\Debug\netcoreapp3.1\calculatorMachine.pdb
+C:\Users\FERİD\Source\FormRepos\calculatorMachine\calculatorMachine\obj\Debug\netcoreapp3.1\calculatorMachine.csprojAssemblyReference.cache
+C:\Users\FERİD\Source\FormRepos\calculatorMachine\calculatorMachine\obj\Debug\netcoreapp3.1\calculatorMachine.Form1.resources
+C:\Users\FERİD\Source\FormRepos\calculatorMachine\calculatorMachine\obj\Debug\netcoreapp3.1\calculatorMachine.csproj.GenerateResource.cache
+C:\Users\FERİD\Source\FormRepos\calculatorMachine\calculatorMachine\obj\Debug\netcoreapp3.1\calculatorMachine.AssemblyInfoInputs.cache
+C:\Users\FERİD\Source\FormRepos\calculatorMachine\calculatorMachine\obj\Debug\netcoreapp3.1\calculatorMachine.AssemblyInfo.cs
+C:\Users\FERİD\Source\FormRepos\calculatorMachine\calculatorMachine\obj\Debug\netcoreapp3.1\calculatorMachine.csproj.CoreCompileInputs.cache
+C:\Users\FERİD\Source\FormRepos\calculatorMachine\calculatorMachine\obj\Debug\netcoreapp3.1\calculatorMachine.dll
+C:\Users\FERİD\Source\FormRepos\calculatorMachine\calculatorMachine\obj\Debug\netcoreapp3.1\calculatorMachine.pdb
+C:\Users\FERİD\Source\FormRepos\calculatorMachine\calculatorMachine\obj\Debug\netcoreapp3.1\calculatorMachine.genruntimeconfig.cache

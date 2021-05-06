@@ -1,0 +1,16 @@
+C:\Users\FERİD\Source\FormRepos\pizzaHouse\pizzaHouse\bin\Debug\netcoreapp3.1\pizzaHouse.exe
+C:\Users\FERİD\Source\FormRepos\pizzaHouse\pizzaHouse\bin\Debug\netcoreapp3.1\pizzaHouse.deps.json
+C:\Users\FERİD\Source\FormRepos\pizzaHouse\pizzaHouse\bin\Debug\netcoreapp3.1\pizzaHouse.runtimeconfig.json
+C:\Users\FERİD\Source\FormRepos\pizzaHouse\pizzaHouse\bin\Debug\netcoreapp3.1\pizzaHouse.runtimeconfig.dev.json
+C:\Users\FERİD\Source\FormRepos\pizzaHouse\pizzaHouse\bin\Debug\netcoreapp3.1\pizzaHouse.dll
+C:\Users\FERİD\Source\FormRepos\pizzaHouse\pizzaHouse\bin\Debug\netcoreapp3.1\pizzaHouse.pdb
+C:\Users\FERİD\Source\FormRepos\pizzaHouse\pizzaHouse\obj\Debug\netcoreapp3.1\pizzaHouse.csprojAssemblyReference.cache
+C:\Users\FERİD\Source\FormRepos\pizzaHouse\pizzaHouse\obj\Debug\netcoreapp3.1\pizzaHouse.Form1.resources
+C:\Users\FERİD\Source\FormRepos\pizzaHouse\pizzaHouse\obj\Debug\netcoreapp3.1\pizzaHouse.Properties.Resources.resources
+C:\Users\FERİD\Source\FormRepos\pizzaHouse\pizzaHouse\obj\Debug\netcoreapp3.1\pizzaHouse.csproj.GenerateResource.cache
+C:\Users\FERİD\Source\FormRepos\pizzaHouse\pizzaHouse\obj\Debug\netcoreapp3.1\pizzaHouse.AssemblyInfoInputs.cache
+C:\Users\FERİD\Source\FormRepos\pizzaHouse\pizzaHouse\obj\Debug\netcoreapp3.1\pizzaHouse.AssemblyInfo.cs
+C:\Users\FERİD\Source\FormRepos\pizzaHouse\pizzaHouse\obj\Debug\netcoreapp3.1\pizzaHouse.csproj.CoreCompileInputs.cache
+C:\Users\FERİD\Source\FormRepos\pizzaHouse\pizzaHouse\obj\Debug\netcoreapp3.1\pizzaHouse.dll
+C:\Users\FERİD\Source\FormRepos\pizzaHouse\pizzaHouse\obj\Debug\netcoreapp3.1\pizzaHouse.pdb
+C:\Users\FERİD\Source\FormRepos\pizzaHouse\pizzaHouse\obj\Debug\netcoreapp3.1\pizzaHouse.genruntimeconfig.cache
