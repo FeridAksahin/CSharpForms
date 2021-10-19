@@ -19,8 +19,8 @@ namespace pizzaHouse
 
         private void button1_Click(object sender, EventArgs e)
         {
-            listBox1.Items.Add(textBox2.Text); //listBox1'e textBox2nin textini ekledik 
-            listBox2.Items.Add(textBox1.Text); //comboBoxta ne seçilirse yani comboBox textini listbox2 ye atadık orada gözkr
+            listBox1.Items.Add(textBox2.Text); 
+            listBox2.Items.Add(textBox1.Text); 
             listBox3.Items.Add(comboBox1.Text);
             listBox4.Items.Add(textBox3.Text);
             listBox5.Items.Add();
@@ -28,7 +28,3 @@ namespace pizzaHouse
         }
     }
 }
-
-/*
- groupBox üzerine eklenen checkboxları taşır groupu nereye taşırsak checkBoxlar oraya gider
-pictureBox içine resim konur .*/
