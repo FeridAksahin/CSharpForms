@@ -32,20 +32,9 @@ namespace calculatorMachine
             int nmb1;
             int nmb2;
             int plusResult;
-            /* Program textboxta yazılan sayıyı string olarak algılıyo şuan o yüzden onu integer olarak tanıması için
-             * convert işlemi yapmalıyız*/
-            nmb1 = Convert.ToInt32(textBox1.Text); /*Dediikki nmb1 değişkenini convert et Integera nerede convert edeyimi parantez
-            içinde belirttik yani textBox1 id li textboxa ne zaman nbm1 int ini girersek o textbox1in texti olur bizde o texti
-            integera convert ettik 
-            nmb1 textBox1.Text'in değeri ama sen onu string olarak sayma integer olarak say diye convert ettik. Int32 aralığı
-            int'in 64'te yapabilirdik*/
-            nmb2 = Convert.ToInt32(textBox2.Text); /*nmb2 değişkenini textBox2'ye girilen texte eşitledik ve bu değer sayı olcak
-            çünkü hesap makinesidir. Sonra bu girilen değeri program string olarak algılar textBox oldugundan o yüzden int e
-            convert ettik */
-
+            nmb1 = Convert.ToInt32(textBox1.Text); 
+            nmb2 = Convert.ToInt32(textBox2.Text); 
             plusResult = nmb1 + nmb2;
-            // label7.Text = plusResult;  Bu hata verir çünkü plusResult int label7.Text stringti string ifadeyi inte eşitleyemezsin
-            //Bu yüzden tip çevirme yaparız plusResultu bu yüzde ToString() metodu ile int'i stringe çeviririz.
             label7.Text = plusResult.ToString();
 
         }
@@ -81,8 +70,6 @@ namespace calculatorMachine
             nmb2 = Convert.ToInt32(textBox2.Text);
             divideResult = nmb1 / nmb2;
             label9.Text = divideResult.ToString();
-        } /*bir blogun içinde tanımlanan değişkenler o blokta geçerlidir o yüzden bütün buton metotlarda aynı isimde 
-        nmb1, nmb2 gibi integer açabildik. Metod blogunun dışında o değişkenler geçersiz yani yok gibidir sanki hiç 
-        tanımlanmamış gibi. */ 
+        } 
     }
 }
